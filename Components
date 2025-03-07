@@ -1,0 +1,21 @@
+1.  Arduino Microcontroller: 
+         
+  Model: Arduino Uno, Nano for the purpose of transmission and reception. 
+ 
+2.  Power Supply: 
+          
+   Battery pack or USB power supply to power the Arduino. 
+ 
+3.RF Module: 
+         
+    433 MHZ for RF communication. 
+ 
+4. Arduino IDE: 
+            
+ Development environment for writing and uploading code to the Arduino. 
+ 
+5.  Libraries: 
+ 
+AES Library: A suitable library for implementing the AES algorithm (e.g., "AESLib"). 
+       
+     Polybius Cipher Implementation: Custom code or a library for the Polybius cipher. 
